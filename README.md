@@ -19,7 +19,7 @@ Overall, Ransom Defender is a powerful and effective program that provides an es
 To deploy this project you would need python installed o your environment that must be atleast greater than version 3 to ensure smooth working.
 
 ```bash
-  python3 Encrypto.py {INSERT PATH LOCATION OF RESOURCE HERE}
+  python3 Encryptor.py {INSERT PATH LOCATION OF RESOURCE HERE}
 ```
 
 
