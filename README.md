@@ -1,5 +1,5 @@
 
-# Ransom-Defender
+# Ransomware-Defender
 
 Ransom Defender is a cutting-edge program designed to protect your data from ransomware attacks by encrypting it beforehand according to the administrator's preferences. With ransomware attacks becoming more prevalent and sophisticated, protecting your data has become a top priority for businesses and individuals alike. Ransom Defender provides a robust solution to this problem by preventing ransomware from accessing your sensitive data in the first place.
 
